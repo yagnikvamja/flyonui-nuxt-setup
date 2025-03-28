@@ -1,6 +1,6 @@
 # [FLyonUI](https://flyonui.com/) + [Nuxt](https://nuxt.com/) Integration
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Check out the [Nuxt 3](https://nuxt.com/) documentation to learn more, and explore [FlyonUI](https://flyonui.com/), a free Tailwind CSS component library, for ready-to-use UI components.
 
 ## Setup
 
